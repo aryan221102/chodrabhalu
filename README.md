@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chodrabhalu
+- 👋 Hi, I’m @Aryan Verma
 - 👀 I’m interested in MLOps, DeepLearning, DataScience
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on DL/ML, DataScience Projects
